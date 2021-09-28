@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982384551257",
+    "project_id": "pill-reminder-c8776",
+    "storage_bucket": "pill-reminder-c8776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982384551257:android:2bf215419a96d5d567d848",
+        "android_client_info": {
+          "package_name": "com.example.med_remind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982384551257-ce8vamfmp1am29na8bhiohh0j648ardi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExpoTJo1RomOGj2u0sOcg_Yg1JRxblnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982384551257-ce8vamfmp1am29na8bhiohh0j648ardi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
