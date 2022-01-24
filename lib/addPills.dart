@@ -180,6 +180,7 @@ class _addPillsState extends State<addPills> {
   }
 }
 
+
 String selectCategory;
 List category = [
   "Painkillers",

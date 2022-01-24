@@ -260,20 +260,6 @@ SizedBox(
         ),
 
 
-        // Container(
-        //     width: MediaQuery.of(context).size.width,
-        //     padding: EdgeInsets.all(10),
-        //     child: TextField(
-        //       controller: bloodSugar,
-        //       decoration: InputDecoration(
-        //           labelText: 'Blood Sugar Level',
-        //           border: OutlineInputBorder(),
-        //           isDense: true),
-        //       keyboardType: TextInputType.number,
-        //       textInputAction: TextInputAction.done,
-        //     )),
-
-
         SizedBox(
           height: MediaQuery.of(context).size.height * 0.03,
         ),
